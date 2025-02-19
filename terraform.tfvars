@@ -4,8 +4,9 @@ region = "ap-south-1"
 
 ##################
 #Secret Keys 
-access_key = " "
-secret_key = " "
+
+# access_key = " "
+# secret_key = " "
 
 ###################
 #vpc
